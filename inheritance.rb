@@ -13,7 +13,9 @@ class Person
 end
 
 # sandy.hair_color = 'green'
+
 # p sandy.hair_color
+
 # sandy.sing
 
 class Wyncoder < Person
